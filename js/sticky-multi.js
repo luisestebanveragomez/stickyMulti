@@ -1,7 +1,7 @@
 /*---------------------------------------------
  Autor: Esteban Vera
  Twitter : @kiokotzu
- Github : https://github.com/kiokotzu/styleSelect
+ Github : https://github.com/kiokotzu/stickyMulti
  Correo : esteban.vg@outlook.com
  Name Plugin: stiky-multi.js
  version : 0.0.1

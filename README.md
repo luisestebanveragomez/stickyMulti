@@ -1,7 +1,7 @@
-Configuration plugin
+<h1>Configuration plugin</h1>
 
-add css:
-
+<h2>add css:</h2>
+<pre>
 .stickyFixed{
   position: fixed;
   top: 0;
@@ -16,11 +16,14 @@ add css:
   width: 100%;
   height: 1px;
 }
+</pre>
 
 
-settings js:
+<h2>settings js:</h2>
+<pre>
   $(element).stickyMulti({
     parentEl: '',  //Mandatory parameter
     classFixed: '', default 'stickyFixed'
- 	  classFinish: '' default 'stickyFinish'
+    classFinish: '' default 'stickyFinish'
   });
+</pre>
